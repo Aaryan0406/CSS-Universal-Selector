@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+    text-align: center;
+    color: Blue;
+}
+</style>
+</head>
+<body>
+
+<h1>Hello</h1>
+
+<p>what's up</p>
+<p id="good">Hey</p>
+<p>How Are You</p>
+
+</body>
+</html>
